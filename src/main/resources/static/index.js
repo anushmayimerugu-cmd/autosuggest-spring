@@ -1,6 +1,4 @@
-index.js: 
-
-```// alert("Hello guysss");
+// alert("Hello guysss")
 
 console.log("hello from JS!")
 
@@ -33,6 +31,6 @@ function toggleUser(){
 
     // 3: gender
     var userGender = document.getElementById("user-gender");
-    userGender.innerHTML = users[id].gender;```
+    userGender.innerHTML = users[id].gender;
 
 }
