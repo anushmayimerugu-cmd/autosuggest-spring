@@ -6,7 +6,7 @@ var users = [
     {
         "name" : "vennela",
         "gender" : "female",
-        "img" : "vennela.jpeg"
+        "img" : "vennala.jpeg"
     },
     {
         "name" : "srinidhi",
