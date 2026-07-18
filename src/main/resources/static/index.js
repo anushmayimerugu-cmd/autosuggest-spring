@@ -4,14 +4,14 @@ console.log("hello from JS!")
 
 var users = [
     {
-        "name" : "John Doe",
-        "gender" : "Male",
-        "img" : "john.png"
+        "name" : "vennela",
+        "gender" : "female",
+        "img" : "vennela.jpeg"
     },
     {
-        "name" : "Jane Doe",
+        "name" : "srinidhi",
         "gender" : "Female",
-        "img" : "jane.png"
+        "img" : "image.png"
     }
 ]
 
