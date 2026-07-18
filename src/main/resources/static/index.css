@@ -24,3 +24,10 @@ body{
     color:blue;
     background-color:aqua;
 }
+.card{
+    border:1px solid black;
+    width: 350px;
+}
+.card img{
+    width:300px;
+}
